@@ -1,0 +1,1 @@
+I'm going through the "Design Patterns in .NET Core 3" book by D.Nesteruk to refresh my design pattern knowledge and stronger my C# skills. In this repo I'm implementing all the design patterns I go through in C#. 
